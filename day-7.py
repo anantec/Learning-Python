@@ -31,3 +31,13 @@ print("for loop with an increment of 2")
 for i in range(0,20,2):
     print(i)
 
+
+# there is another loop named (While) loop it will work till the condtion is true
+
+print("\n")
+print("while loop with an increment of 2")
+while(i>20):
+    print(i)
+    i+=2
+
+# there is only two loops in python
